@@ -57,13 +57,13 @@ End-to-end tests only make sense when applied to the most critical functionality
 End-to-end tests require the application to be hosted somewhere to fully emulate the end user, while
 integration tests normally host the application in the same process.
 
-![Ideal test](images/ideal_test.png)
+![Ideal test](https://raw.githubusercontent.com/furkantopal/unit-testing-notes/main/images/ideal_test.png)
 
-![Pillars of Test](images/pillars_of_test.png)
+![Pillars of Test](https://raw.githubusercontent.com/furkantopal/unit-testing-notes/main/images/pillars_of_test.png)
 
-![Test Pyramid](images/test_pyramid.png)
+![Test Pyramid](https://raw.githubusercontent.com/furkantopal/unit-testing-notes/main/images/test_pyramid.png)
 
-![Pyramid Choices](images/pyramid_choices.png)
+![Pyramid Choices](https://raw.githubusercontent.com/furkantopal/unit-testing-notes/main/images/pyramid_choices.png)
 
 Black-box testing examines the functionality of a system without knowing its internal structure.
 
