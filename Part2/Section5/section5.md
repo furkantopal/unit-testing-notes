@@ -97,7 +97,7 @@ out-of-process, testing becomes more complicated. You can’t instantiate a new 
 a new message bus before each test execution; that would drastically slow down the test suite. The
 usual approach is to replace such dependencies with test doubles—mocks and stubs.
 
-![Observable vs Implementation](unit-testing-notes/images/observable_vs_implementation.png)
+![Observable vs Implementation](https://raw.githubusercontent.com/furkantopal/unit-testing-notes/main/images/observable_vs_implementation.png)
 
 All production code can be categorized along two dimensions:
 
