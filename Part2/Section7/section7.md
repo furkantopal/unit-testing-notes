@@ -30,7 +30,7 @@ The Humble Object pattern helps make overcomplicated code testable by extracting
 of that code into a separate class.
 
 When you need to refer to out-of-process dependencies in the middle of the business operation:
-![When business logic get complex](unit-testing-notes/images/when_business_logic_get_complex.png)
+![When business logic get complex](https://raw.githubusercontent.com/furkantopal/unit-testing-notes/main/images/when_business_logic_get_complex.png)
 
 The CanExecute/Execute pattern essentially eliminates the controller’s decision-making because
 there’s no option not to call CanDo() before Do().
